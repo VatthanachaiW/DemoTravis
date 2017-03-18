@@ -1,0 +1,8 @@
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\bin\Debug\netcoreapp1.1\Web.deps.json
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\bin\Debug\netcoreapp1.1\Web.runtimeconfig.json
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\bin\Debug\netcoreapp1.1\Web.runtimeconfig.dev.json
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\bin\Debug\netcoreapp1.1\Web.dll
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\bin\Debug\netcoreapp1.1\Web.pdb
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\obj\Debug\netcoreapp1.1\Web.AssemblyInfo.cs
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\obj\Debug\netcoreapp1.1\Web.dll
+C:\Users\ai\Desktop\DevRock\TravisTutorial\DevRocks.DemoTravis\Src\Web\obj\Debug\netcoreapp1.1\Web.pdb
